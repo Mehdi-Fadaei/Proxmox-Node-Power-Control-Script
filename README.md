@@ -49,7 +49,7 @@ Replace ip white you cluster proxmox id
 
 Download the script
 
-wget https://github.com/<your-repo>/nodes-control.sh
+wget https://github.com/Mehdi-Fadaei/Proxmox-Node-Power-Control-Script.git
 chmod +x nodes-control.sh
 
 
